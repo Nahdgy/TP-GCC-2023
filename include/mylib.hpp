@@ -41,4 +41,11 @@ void plusProcheVoisin(std::vector<Point2D> points, Point2D P, int dist);
     /// @brief Game where the player have to choose a int in a range to found the good number 
 void plusOuMoins();
 
+void TP_exo1();
+
+void TP_exo2();
+
+void TP_exo3();
+
+
 #endif // _MYLIB_HPP_
