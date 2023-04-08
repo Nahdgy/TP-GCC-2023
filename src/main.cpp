@@ -18,6 +18,9 @@ int main ()
     std::cout << "Exemple de point : " << P << std::endl;
     std::cout << "Exemple de point : " << points.at(2) << std::endl;
     */
-   TP_exo1();
+   //TP_exo1();
+   //TP_exo2();
+   TP_exo3();
+   
     return 0;
 }
